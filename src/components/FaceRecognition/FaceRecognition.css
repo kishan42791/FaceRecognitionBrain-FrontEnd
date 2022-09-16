@@ -1,0 +1,8 @@
+.bounding-box {
+	position:  relative;
+	box-shadow: 0 0 0 3px #d8dde0 inset;
+	display:  flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	cursor: pointer;
+}
